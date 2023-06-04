@@ -1,7 +1,3 @@
-/*----------------------------------------------------------------------------------------------
-|               Código feito por Lucas Moura Vidal da Silva em 30/03/2023                      |
-|---------------------------------------------------------------------------------------------*/
-
 /*Programa que permite o usuário Inserir, Remover e Exibir livros em uma pilha dinâmica
 atráves do seu título como também informar o número de páginas de cada um deles*/
 

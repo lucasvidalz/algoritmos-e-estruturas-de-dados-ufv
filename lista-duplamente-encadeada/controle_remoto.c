@@ -1,6 +1,3 @@
-/*----------------------------------------------------------------------------------------------
-|               Código feito por Lucas Moura Vidal da Silva em 30/03/2023                      |
-|---------------------------------------------------------------------------------------------*/
 /*Esse programa apresenta um menu de opções, de uma lista duplamente encadeada usada na implementação do controle remoto de
 uma TV contendo o nome e o número do canal.
 */
